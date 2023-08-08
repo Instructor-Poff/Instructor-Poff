@@ -1,14 +1,19 @@
-<h1>Hi, I'm Your Name! <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
+<h1>Hi, I'm Jeramiah Poff! <a href="https://www.linkedin.com/in/yourlinkedin/"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
-  - [Link Title](Link)
+  - [Helpdesk 1](Link)
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
 
 <h2>📜 Certifications:</h2>
 
-  - [Link Title](Link)
+  - [PCCET](Link)
+  - [Network+](Link)
+  - [Splunk Certified Core User](Link)
+  - [AZ-900](Link)
+
+
 
 <h2>🛡️ Information Security Projects</h2>
 
