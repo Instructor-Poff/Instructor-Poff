@@ -13,8 +13,6 @@
   - [Splunk Certified Core User](Link)
   - [AZ-900](Link)
 
-
-
 <h2>🛡️ Information Security Projects</h2>
 
  - [Link Title](Link)
