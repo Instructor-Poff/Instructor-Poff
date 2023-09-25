@@ -6,17 +6,17 @@
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
 
+<h2>🛡️ Information Security Projects</h2>
+
+ - [Link Title](Link)
+  
 <h2>📜 Certifications:</h2>
 
   - [PCCET](Link)
   - [Network+](Link)
   - [Splunk Certified Core User](Link)
   - [AZ-900](Link)
-
-<h2>🛡️ Information Security Projects</h2>
-
- - [Link Title](Link)
-  
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="yourname | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
