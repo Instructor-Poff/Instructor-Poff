@@ -12,9 +12,9 @@
   
 <h2>📜 Certifications:</h2>
 
-  - [PCCET](Link)
   - [Network+](Link)
-  - [Splunk Certified Core User](Link)
+  - [Example](Link)
+  - [Example](Link)
   - [AZ-900](Link)
     
 <h2> 🤳 Connect with me:</h2>
