@@ -12,7 +12,7 @@
   
 <h2>📜 Certifications:</h2>
 
-  - [Network+](Link)
+  - [CISSP](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c)
   - [Example](Link)
   - [Example](Link)
   - [AZ-900](Link)
