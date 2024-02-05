@@ -14,8 +14,7 @@
 
   - [CISSP](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c)
   - [Security+](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07)
-  - [CyberOps Associate](https://www.credly.com/earner/earned/badge/58482dab-ca34-482d-b4fc-2610a2608dd2)
-  - [AZ-900](Link)
+  - [ACE]https://www.credly.com/earner/earned/badge/8f23544f-0d78-4345-9b1e-74c22f241256
     
 <h2> 🤳 Connect with me:</h2>
 
