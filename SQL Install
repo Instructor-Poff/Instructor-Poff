@@ -1,0 +1,17 @@
+Disable Windows Firewall and Install SQL Server and Create Vulnerabilities
+Remote Into the VM (windows-vm)
+Turn off Windows Firewall
+Install SQL Server Evaluation: https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019
+Username: sa (default)
+Password: Cyberlab123! 
+Install SSMS (SQL Server Management Studio): https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms 
+Enable logging for SQL Server to be ported into Windows Event Viewer (Ref)
+Test SQL logging to make sure it’s working properly
+
+Test ping and logging into linux-vm via SSH
+Ping linux-vm
+Login to linux-vm
+
+(4) https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2019
+(7) https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+(8) https://learn.microsoft.com/en-us/sql/relational-databases/security/auditing/write-sql-server-audit-events-to-the-security-log?view=sql-server-ver16
